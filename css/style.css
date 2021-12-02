@@ -1,0 +1,11 @@
+html {
+    background-color: #87A96B;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 5%;
+    outline: 3px solid #000;
+    border-radius: 10px;
+}
